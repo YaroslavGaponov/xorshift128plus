@@ -1,0 +1,23 @@
+{
+  "name": "xorshift128plus",
+  "version": "0.0.1",
+  "description": "function returns a floating-point, pseudo-random number in the range from 0 inclusive up to but not including 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaroslavGaponov/xorshift128plus.git"
+  },
+  "keywords": [
+    "random",
+    "pseudo-random"
+  ],
+  "author": "Yaroslav Gaponov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaroslavGaponov/xorshift128plus/issues"
+  },
+  "homepage": "https://github.com/YaroslavGaponov/xorshift128plus#readme"
+}
